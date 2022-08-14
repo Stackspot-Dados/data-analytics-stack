@@ -4,3 +4,6 @@
 [submodule "aws-glue-database-plugin"]
 	path = aws-glue-database-plugin
 	url = git@github.com:Stackspot-Dados/aws-glue-database-plugin.git
+[submodule "aws-glue-s3-plugin"]
+	path = aws-glue-s3-plugin
+	url = git@github.com:Stackspot-Dados/aws-glue-s3-plugin.git
