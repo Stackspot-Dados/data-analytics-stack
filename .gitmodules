@@ -1,0 +1,3 @@
+[submodule "terraform-initial-template"]
+	path = terraform-initial-template
+	url = git@github.com:Stackspot-Dados/terraform-initial-template.git
