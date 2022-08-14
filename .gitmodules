@@ -7,3 +7,6 @@
 [submodule "aws-glue-s3-plugin"]
 	path = aws-glue-s3-plugin
 	url = git@github.com:Stackspot-Dados/aws-glue-s3-plugin.git
+[submodule "aws-glue-crawler-plugin"]
+	path = aws-glue-crawler-plugin
+	url = git@github.com:Stackspot-Dados/aws-glue-crawler-plugin.git

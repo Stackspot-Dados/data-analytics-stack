@@ -6,9 +6,5 @@ inputs:
   some_input: value
 # list of plugins to be applied after project creation
 plugins:
-  - plugin: data-analytics/<plugin-name>
-    inputs:
-      some_input: value
-      some_list:
-        - item1
-        - item2
+  - plugin: data-analytics/aws-glue-database-plugin
+  - plugin: data-analytics/aws-glue-s3-plugin
