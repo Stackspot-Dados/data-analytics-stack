@@ -10,6 +10,6 @@ technologies: # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/
   - docker 
 about: docs/about.md
 use-cases:
-  - title: Use Case Title
+  - title: Stack básica para começar com dados na AWS utilizando S3, Glue e Athena
     content: docs/use-case.md
     stackfile: stackfiles/default.yaml
