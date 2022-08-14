@@ -8,3 +8,5 @@ inputs:
 plugins:
   - plugin: data-analytics/aws-glue-database-plugin
   - plugin: data-analytics/aws-glue-s3-plugin
+  - plugin: data-analytics/aws-glue-crawler-plugin
+  - plugin: data-analytics/aws-glue-crawler-plugin

@@ -10,3 +10,6 @@
 [submodule "aws-glue-crawler-plugin"]
 	path = aws-glue-crawler-plugin
 	url = git@github.com:Stackspot-Dados/aws-glue-crawler-plugin.git
+[submodule "aws-athena-workgroup-plugin"]
+	path = aws-athena-workgroup-plugin
+	url = git@github.com:Stackspot-Dados/aws-athena-workgroup-plugin.git
