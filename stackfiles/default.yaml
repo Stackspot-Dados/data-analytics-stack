@@ -1,12 +1,10 @@
-type: app
+type: env
 description: Default stackfile usecase description
 # template used to create the project
-template: data-analytics/terraform-initial-template
-inputs:
-  some_input: value
+template: data-analytics/terraform
 # list of plugins to be applied after project creation
 plugins:
   - plugin: data-analytics/aws-glue-database-plugin
   - plugin: data-analytics/aws-glue-s3-plugin
-  - plugin: data-analytics/aws-glue-crawler-plugin
+  - plugin: data-analytics/AWS Glue Crawler
   - plugin: data-analytics/aws-athena-workgroup-plugin
